@@ -1,1 +1,1 @@
-from airflow import DAG
+"https://randomuser.me/api/"
